@@ -1,0 +1,37 @@
+# Встроенные файлы приложений
+/*/сборка/
+
+# Настройки Crashlytics
+com_crashlytics_export_strings.xml
+
+# Локальный конфигурационный файл (путь к sdk и т.д.)
+local.properties
+
+# Файлы, сгенерированные Gradle
+.gradle/
+
+# Подписывание файлов
+.подписание/
+
+# Пользовательские конфигурации
+.idea/библиотеки/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/.name
+.idea/compiler.xml
+.idea/авторские права/profiles_settings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/области/scope_settings.xml
+.idea/vcs.xml
+*.iml
+
+# Файлы, зависящие от операционной системы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
