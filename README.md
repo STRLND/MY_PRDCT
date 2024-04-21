@@ -1,2 +1,2 @@
-# A simple Android calculator app
+# A simple calculator for android.
 
